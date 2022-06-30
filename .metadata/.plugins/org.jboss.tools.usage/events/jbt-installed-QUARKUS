@@ -1,9 +1,9 @@
-#Tue Jun 21 17:45:55 BRT 2022
+#Thu Jun 30 18:42:03 BRT 2022
 ct=jbt
 a=installed
-c=1
+c=2
 s=0
-d=1655844355213
+d=1656625323963
 v=2.2.400
 cmp=usage
 cl=QUARKUS
