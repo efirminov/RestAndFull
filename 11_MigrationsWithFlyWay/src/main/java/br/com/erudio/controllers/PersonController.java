@@ -1,4 +1,4 @@
-package br.com.github.efirminov.restandfull.controllers;
+package br.com.erudio.controllers;
 
 import java.util.List;
 
