@@ -1,4 +1,4 @@
-package br.com.erudio.controllers;
+package br.com.github.efirminov.restandfull.controllers;
 
 import java.util.List;
 
@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.github.efirminov.restandfull.data.vo.v1.PersonVO;
+import br.com.github.efirminov.restandfull.data.v1.PersonVO;
 import br.com.github.efirminov.restandfull.services.PersonServices;
 
 @RestController
