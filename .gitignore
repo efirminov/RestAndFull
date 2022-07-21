@@ -23,3 +23,5 @@
 hs_err_pid*
 replay_pid*
 /.metadata/
+.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs
+*.resources
